@@ -1,13 +1,29 @@
-# Appropriate Tech: who can speak for whom and how
+# Digital Day Camp, 2018 Syllabus
+Repository of classes, teachers & resources shared at Eyebeam's youth summer program, [Digital Day Camp]
+(https://www.eyebeam.org/events/digital-day-camp-2018-trust/) 'DDC18', a two week long youth art and technology summer intensive.
+During DDC18, students worked alongside artist-educators engaging in hands-on workshops focusing on software, hardware, tools, careers in the field and social topics around this year’s theme of **TRUST**. The theme responds to Eyebeam’s current residency cohort and their focus examining relationships between power and technology.
+
+We will challenge youth to apply creative thinking strategies across a range of tools and topics with the goal to develop **critical, empowering and long-lasting relationships with technology** encouraging youth to see their role in its future as agents of change.
+
+<hr>
+
+## Day 1, Monday July 16th
+
+### Welcome • by Taehee Whang
+
+- Overview, code of conduct and get to know you 'game' Human Computer
+
+## Day 2, Tuesday July 17th
+### Appropriate Tech: who can speak for whom and how • by [Christopher Clary](https://christopherclary.com/work)
 
 In this workshop students will use their online personas to create art about themselves and their classmates. First we'll discuss appropriation versus privacy and artistic freedom versus social justice — looking at a recent art world controversy. Then we'll learn about zine culture and how it embraces and critques appropriation. Students will create a self-portrait using a thread from their emails, texts, apps, or feeds. Finally, students will portray each other using the same material as a way to see one another differently. Trusting each other with their content.    
 
-## Homework (15 minutes)
+#### Homework (15 minutes)
 Take 15 minutes to watch this [video](https://video.vice.com/en_us/embed/58dabbab91d237b4148aa34f) about the controversy surrounding Dana Schutz's painting from the 2017 Whitney Biennial. Then read this [article](https://news.artnet.com/art-world/parker-bright-paris-protest-1227947) about Parker Bright who protested Dana's painting and was the subject of a Neïl Beloufa work at the Palais de Tokyo museum in Paris.<br>
 
 Think about who. From what position was Dana creating? Then whom. How did this effect Parker and Neïl and then Parker again? How did technology play a part? Not just in the distribution but the making of art.
 
-## Warmup (30 minutes)
+#### Warmup (30 minutes)
 
 <b>Introductions</b><br>
 1 take a hello-my-name-is sticker<br>
@@ -30,7 +46,7 @@ A zine is a small-circulation self-published work of original or appropriated te
 • For Everard by Anthony Malone <br>
 • [NOPE 45] by Sebastian Hutchinson <br>
 
-## Work (70 minutes)
+#### Work (70 minutes)
 
 <b>Building an Archive</b><br>
 1 open your emails, texts, apps, and feeds<br>
@@ -55,7 +71,7 @@ A zine is a small-circulation self-published work of original or appropriated te
 2 review material<br>
 3 repeat above steps to create a portrait of your classmate
 
-## Share (15 minutes)
+#### Share (15 minutes)
 
 What story are you telling? <br>
 From what position? <br>
@@ -63,7 +79,7 @@ Whom does it effect? <br>
 How is the zine similar and different from the actual thread? <br>
 How is your self-portrait similar and different from the portrait your classmate did of you?
 
-## Takeaway (5 minutes)
+#### Takeaway (5 minutes)
 <b>Texts</b><br>
 [Wasting Time on the Internet](https://play.google.com/store/books/details?pcampaignid=books_read_action&id=GfcOCwAAQBAJ) by Kenneth Goldsmith <br>
 [There's a New Movement in American Poetry and It's Not Kenneth Goldsmith](https://newrepublic.com/article/122985/new-movement-american-poetry-not-kenneth-goldsmith) by Cath Park Hong
