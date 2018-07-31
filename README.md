@@ -18,7 +18,7 @@ We will challenge youth to apply creative thinking strategies across a range of 
 
 In this workshop students will use their online personas to create art about themselves and their classmates. First we'll discuss appropriation versus privacy and artistic freedom versus social justice — looking at a recent art world controversy. Then we'll learn about zine culture and how it embraces and critques appropriation. Students will create a self-portrait using a thread from their emails, texts, apps, or feeds. Finally, students will portray each other using the same material as a way to see one another differently. Trusting each other with their content.    
 
-## Day 3, Tuesday July 17th
+## Day 3, Wednesday July 18th
 ### [Digital Activism](https://github.com/ariciano/Digital-Activism/blob/master/README.md) • by [Ari J Melenciano](http://www.ariciano.com/about/)
 
 In this course, students will be exploring ways that technology can be used to interpret data and facts into visual or audio interactive experiences.
@@ -36,12 +36,67 @@ This workshop will allow students to understand the basic principles behind mach
 The ml5 JavaScript library is a tool for educators to integrate machine learning concepts into introductory coding classes. Together with examples, tutorials, and data sets, the library’s goal is to make machine learning accessible to a broad audience of artists, creative coders, and students (high school and university). The ml5 library provides access to machine learning algorithms and models in the browser with no other external dependencies.
 
 
-## Day 4, Tuesday July 17th
+## Day 4, Thursday July 19th
+### I want to believe • by [David Lee](http://cargocollective.com/DavidMLee)
+
+What perpetuates myths? How is new media utilized to explore and/or distort an objective truth? Students will examine how systems of belief such as conspiracy theory and superstition are created and the means but which they are perpetuated and spread through various media. Drawing inspiration from these tenants, we will explore how anecdotal evidence is used to construct an instance of narrative that blends both fact and fiction. Students will be encouraged to be creative with where they find their sources, be it from a book, an online database, personal diary, Youtube, deviantArt, etc.
+Outcomes & Goals
+Programs We’ll Be Using
+- Blender
+
+Class intro (15 min)
+
+Screening of Guy Maddie’s “My Winnipeg” (excerpt) (7 min)
+Reading and Discussion (45 min)
+— Olin, Margaret. “Gaze”
+- What is a methodology?
+- What happens to information as it becomes archived?
+- What are the gazes of the archives that we access?
+
+--Breakell, Sue. “Perspectives; Negotiating the Archive” (excerpt)
+Group Activity (15 min)
+Research (45 min)
+- Students will pick their sources and start creating their archives
+- Consider what happens to information as it is manipulated in the digital space
+Blender Intro (1 hour)
+- Navigating Blender
+- Basic Transformations
+- Mesh Editing
+- Shortcuts
+- Texture and Surface Editing
+- Importing to Unity
+
+Discuss Work and Group Reflection (30 min)
+
+Students will 
+-develop their own methodology, based on evidence and logic, in order to disseminate research and either construct or debunk a “truth”.
+-make a basic architectural structure in Blender
+-how to import textures and incorporate text and video into 3D models
+-Import Blender models into Unity to make a navigable virtual navigable space to present their digital archives
+
+
+## Day 5, Friday July 20th
+### Digital Frabrication at Eyebeam • by [Adrian Rivera](https://adrianerivera.com/) 
+
+3D printing/Laser cutter/Fidget Spinners
+
+## Day 6, Monday July 23rd
+### [BUFU](http://www.bufubyusforus.com) Community Resource Sharing • by [Jazmin Jones](https://www.jazminjones.com/)
+
+### [IMPROVISATION, LISTENING, AND CODING W/ EXAMPLES IN SUPERCOLLIDER](https://github.com/bkudler/DDC_2018) • by Ben Kudler
+
+This workshop will teach the basics of SuperCollider, and through that the basics of computer programming, as well as digital sound synthesis, and musical improvisation tactics. These skills, taught in tandem, will push students to think critically about how they themselves want to relate to digital technology, music, and where these two things meet. Play, exploration and a focus on non-musical activity will be encouraged during the class, and hopefully students will have a chance to capitalize on their impulse to make crazy sounds. Students will learn how to use SuperCollider to create sounds and play with a small ensemble to make meaningful work.
+
+## Day 7, Tuesday July 24th
 ###
 
-## Day 5, Tuesday July 17th
-## Day 6, Tuesday July 17th
-## Day 7, Tuesday July 17th
-## Day 8, Tuesday July 17th
-## Day 9, Tuesday July 17th
-## Day 10, Tuesday July 17th
+## Day 8, Wednesday July 25th
+###
+
+## Day 9, Thursday July 26th
+###
+###
+
+## Day 10, Friday July 27th
+###
+###
