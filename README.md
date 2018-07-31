@@ -135,9 +135,11 @@ Part 2
 5-10 min ~ Post-gig Hang 
 
 ## Day 9, Thursday July 26th
-### • by Julia Rich
+### [The Art of Filming a Music Video](https://docs.google.com/document/d/1VNPfNDsSP86R3ts2Ljrla9RQViFU7Po3yMa294K1bWM/edit?ts=5b4edb03#heading=h.hitusmg2v4tf) • by [Julia Rich](https://juliarichdotcom.com/)
 
-### by Taehee Whang and Digital Day Camp Students
+In this workshop we will be creating a formal treatment for a current artist’s track using Keynote to gain a better understanding of what goes into the initial creative behind today’s top music videos. 
+
+### Programming of Mini-Digital Day Camp by Taehee Whang and Digital Day Camp Students
 
 ## Day 10, Friday July 27th
 ### Mini-Digital Day Camp "Community" • by Digital Day Camp Students
