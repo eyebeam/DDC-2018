@@ -153,50 +153,57 @@ Students will
 This workshop will teach the basics of SuperCollider, and through that the basics of computer programming, as well as digital sound synthesis, and musical improvisation tactics. These skills, taught in tandem, will push students to think critically about how they themselves want to relate to digital technology, music, and where these two things meet. Play, exploration and a focus on non-musical activity will be encouraged during the class, and hopefully students will have a chance to capitalize on their impulse to make crazy sounds. Students will learn how to use SuperCollider to create sounds and play with a small ensemble to make meaningful work.
 
 ## Day 7, Tuesday July 24th
-### [Sonic Pi Day 1](https://gist.github.com/melodyloveless/c6f74c62344288b4499f363240d2d5b7) • by [Melody Loveless](http://melody-loveless.squarespace.com/)
+### [Sonic Pi](https://gist.github.com/melodyloveless/c6f74c62344288b4499f363240d2d5b7)Day 1 • by [Melody Loveless](http://melody-loveless.squarespace.com/)
 
 ### Part 1
+
 #### Introduction to Workshop (10-15 min)
-What is Music?
-What is Live Coding?
-Group Discussion: Trust, Transparency, and Live Coding
-Establishing Goals/Expectations
+- What is Music?
+- What is Live Coding?
+- Group Discussion: Trust, Transparency, and Live Coding
+- Establishing Goals/Expectations
+
 #### Introduction to Sonic Pi (15-20 min)
-Discuss the following:
-Commands - play, sleep, sample, live_loop, __.times
-Parameters - amp, pan, rate, attack, sustain, decay
-Intro to Traditional/Dance Music
-Emphasis - Time, Repetition
-Intro to Ambient Music
-Emphasis - Randomness
+Discuss the following: 
+- Commands - play, sleep, sample, live_loop, __.times
+- Parameters - amp, pan, rate, attack, sustain, decay
+- Intro to Traditional/Dance Music
+- Emphasis - Time, Repetition
+- Intro to Ambient Music
+- Emphasis - Randomness
+
 #### Individual Work (35-50 min)
 Pick from a prompt
+
 #### Share to Neighbor/Constructive Criticism (10-15 min)
 
 ### Part 2
-#### Guests from Live Code NYC 45-60 min
+
+#### Guests from Live Code NYC (45-60 min)
 Guest Artists: Scorpion Mouse (May Cheung and Jason Levine)
+
 #### Reflect on Performance (10-15 min)
+
 #### Mini-Review and Open Q&A for techniques (5-10 min)
+
 #### Focused Work (20-35 min)
+
 #### before the end, optional share out (5-10 min)
 
 ## Day 8, Wednesday July 25th
-### [Sonic Pi Day 2](https://gist.github.com/melodyloveless/c6f74c62344288b4499f363240d2d5b7) • by [Melody Loveless](http://melody-loveless.squarespace.com/)
-Part 1
-10-15 min ~ Review/Introduction to Goals
-10-15 min ~ Tips on how to structure jam sessions
-15-20 min ~ Logistics/Jam
-Students break off into groups and decide performance guidelines together
-45-60 min ~ Practice in Groups
+### [Sonic Pi](https://gist.github.com/melodyloveless/c6f74c62344288b4499f363240d2d5b7)Day 2 • by [Melody Loveless](http://melody-loveless.squarespace.com/)
+### Part 1
+#### Review/Introduction to Goals (10-15 min)
+#### Tips on how to structure jam sessions (10-15 min)
+#### Logistics/Jam (15-20 min)
+- Students break off into groups and decide performance guidelines together
+#### Practice in Groups (45-60 min)
 
-LUNCH TIME
-
-Part 2
-20-35 min ~ Rehearse in Individual Groups
-10-15 min ~ Set-up for the performance
-45-60 min ~ PERFORMANCE/THE GIG
-5-10 min ~ Post-gig Hang 
+### Part 2
+#### Rehearse in Individual Groups (20-35 min)
+#### Set-up for the performance (10-15 min)
+#### PERFORMANCE/THE GIG (45-60 min)
+#### Post-gig Hang (5-10 min)
 
 ## Day 9, Thursday July 26th
 ### [The Art of Filming a Music Video](https://docs.google.com/document/d/1VNPfNDsSP86R3ts2Ljrla9RQViFU7Po3yMa294K1bWM/edit?ts=5b4edb03#heading=h.hitusmg2v4tf) • by [Julia Rich](https://juliarichdotcom.com/)
