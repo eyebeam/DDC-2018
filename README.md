@@ -18,6 +18,59 @@ We will challenge youth to apply creative thinking strategies across a range of 
 
 In this workshop students will use their online personas to create art about themselves and their classmates. First we'll discuss appropriation versus privacy and artistic freedom versus social justice — looking at a recent art world controversy. Then we'll learn about zine culture and how it embraces and critques appropriation. Students will create a self-portrait using a thread from their emails, texts, apps, or feeds. Finally, students will portray each other using the same material as a way to see one another differently. Trusting each other with their content.    
 
+### Superhero Task Force and Coding • by [Alice Sparkly Kat](http://www.alicesparklykat.com/)
+
+#### Target Audience / Prerequisite & Pre-Assessment
+Teens, ages 13-19. We will need computers with Sublime and a web browser, such as Google
+Chrome, installed.
+
+#### Outcomes & Goals
+In this workshop we will be creating website for superhero task forces with the mission to
+create more trust in our social, political, and economic institutions. Students will walk away with
+a deeper understanding of the institutions that create trust, HTML, and CSS.
+Materials Needed & Exercises To Do Before Class
+Computer, with Sublime and a web browser installed
+
+#### Vocabulary
+Accountability, public good, power, super power, reinforcement, standards
+
+#### Essential Questions
+What public institutions create or design trust inside of society?
+What do you think can be done better to encourage more trust?
+What happens when these institutions are not reinforcing trust?
+What kinds of actions promote more trust?
+
+#### Introduction
+In this workshop, we will design a website for a superhero task force with the mission to create more trust in our social, political, and economic institutions.
+
+##### Read Chapter 3 of Globalization and its Discontents by Joseph Stiglitz (30 minutes)
+
+##### Discussion of Reading (30 minutes)
+
+#### Design of superhero task force, mission statement, and story (30 minutes)
+As students design their superhero task force, they will be asked to consider: What kind of power does the super hero have? What does that power affect the world around them? What the the super hero’s origin story? Why do they do the things they do? Can you make a name, mission statement, story, and an image to represent this character? When making their websites, students will make four sections: Image/Name, Mission Statement, and Origin Story. They will design and make websites with these four elements.
+
+#### HTML and CSS introduction and making of website (60 minutes)
+
+#### Student Reflections, Takeaways and Next Steps/Multiple Project Exit Points:
+First Steps - finishing their website
+Next Steps - making a comic for their super hero
+Big Steps - promoting and publishing their comic online
+Presentation: because students are making a website, they can be hosting online and shown to the public
+#### Reflection:
+What does making your superhero and telling their story do for anyone who sees your website?
+What are some issues you care about that you can make websites about?
+What are some actions one person can do to mobilize towards more trust in our institutions?
+#### Post Session
+https://highline.huffingtonpost.com/articles/en/poor-millennials/
+Globalization and its Discontents, Revisited by Joseph Stiglitz
+
+#### Implementation Guidance & Teaching Reflection
+Ask critical questions every five minutes during the superhero design phase so students don’t get off track from issues but still have fun
+
+
+
+
 ## Day 3, Wednesday July 18th
 ### [Digital Activism](https://github.com/ariciano/Digital-Activism/blob/master/README.md) • by [Ari J Melenciano](http://www.ariciano.com/about/)
 
