@@ -143,17 +143,20 @@ Students will
 ## Day 5, Friday July 20th
 ### Digital Frabrication at Eyebeam • by [Adrian Rivera](https://adrianerivera.com/) 
 
-3D printing/Laser cutter/Fidget Spinners
+On this all day field trip to Eyebeam Headquarters, students will learn about digital modelling and fabrication processes. Students will be exposed to the possibilities of these technologies from fashion to industrial functions. Students will have the opportunity to use fabrication equipment to design, create, and assemble their own fidget spinners.
 
 ## Day 6, Monday July 23rd
 ### [BUFU](http://www.bufubyusforus.com) Community Resource Sharing • by [Jazmin Jones](https://www.jazminjones.com/)
+
+In this workshop, students will learn how to plan an event BUFU style. Considering what community means, how to create a safe space, and where to find resources, students will create their own events. Each group of students will share their event’s name, community present, outreach tactics, and resources used.
+
 
 ### [IMPROVISATION, LISTENING, AND CODING W/ EXAMPLES IN SUPERCOLLIDER](https://github.com/bkudler/DDC_2018) • by Ben Kudler
 
 This workshop will teach the basics of SuperCollider, and through that the basics of computer programming, as well as digital sound synthesis, and musical improvisation tactics. These skills, taught in tandem, will push students to think critically about how they themselves want to relate to digital technology, music, and where these two things meet. Play, exploration and a focus on non-musical activity will be encouraged during the class, and hopefully students will have a chance to capitalize on their impulse to make crazy sounds. Students will learn how to use SuperCollider to create sounds and play with a small ensemble to make meaningful work.
 
 ## Day 7, Tuesday July 24th
-### [Sonic Pi](https://gist.github.com/melodyloveless/c6f74c62344288b4499f363240d2d5b7)Day 1 • by [Melody Loveless](http://melody-loveless.squarespace.com/)
+### [Sonic Pi](https://gist.github.com/melodyloveless/c6f74c62344288b4499f363240d2d5b7) Day 1 • by [Melody Loveless](http://melody-loveless.squarespace.com/)
 
 ### Part 1
 
@@ -211,10 +214,13 @@ Guest Artists: Scorpion Mouse (May Cheung and Jason Levine)
 In this workshop we will be creating a formal treatment for a current artist’s track using Keynote to gain a better understanding of what goes into the initial creative behind today’s top music videos. 
 
 ### Programming of Mini-Digital Day Camp by Taehee Whang and Digital Day Camp Students
-Utilizing the lessons and skills learned from Digital Day Camp workshops, students design and plan their own mini DDC where they facilitate their own 20min workshop. Students picked "Community" for the theme for their 2018 mini-DDC. 
+In this preparatory workshop, students will develop their own workshops to teach in a mini DDC. The students will collectively agree on a theme for their mini-DDC and create a lesson plan.
+
+Students picked "Community" for the theme for their 2018 mini-DDC. 
 
 ## Day 10, Friday July 27th
 ### Mini-Digital Day Camp "Community" • by Digital Day Camp Students
-
+Students will lead their own workshops using a combination of both previous knowledge and skills learned at Digital Day Camp. Each student will host a 20 minute lesson.
 
 ### Party
+To celebrate the end of Digital Day Camp, the students will have an after party at Pier 2 Roller Rink.
