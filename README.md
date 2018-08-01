@@ -11,7 +11,20 @@ We will challenge youth to apply creative thinking strategies across a range of 
 
 ### Welcome • by Taehee Whang
 
-- Overview, code of conduct and get to know you 'game' Human Computer
+- Overview, code of conduct, Introduction
+- Walk through "Human Fax Machine"
+1)  sample images, create ‘code’/instruction
+2) divide into encoders & decoders - no talking, new image
+3) look at image, modify code
+4) another round of an image
+Gather back as group and share thoughts
+Share images and renderings
+How successful were your languages at approximating the original image?
+What did you learn while creating your language?
+What was frustrating or enjoyable about the process?
+
+### GIF Pecha Kucha
+Students showed 5min presentation utilizing GIFs to introduce themselves.
 
 ## Day 2, Tuesday July 17th
 ### [Appropriate Tech: who can speak for whom and how](https://github.com/christopherclary/appropriate-tech) • by [Christopher Clary](https://christopherclary.com/work)
