@@ -14,7 +14,7 @@ We will challenge youth to apply creative thinking strategies across a range of 
 - Overview, code of conduct and get to know you 'game' Human Computer
 
 ## Day 2, Tuesday July 17th
-### Appropriate Tech: who can speak for whom and how • by [Christopher Clary](https://christopherclary.com/work)
+### [Appropriate Tech: who can speak for whom and how](https://github.com/christopherclary/appropriate-tech) • by [Christopher Clary](https://christopherclary.com/work)
 
 In this workshop students will use their online personas to create art about themselves and their classmates. First we'll discuss appropriation versus privacy and artistic freedom versus social justice — looking at a recent art world controversy. Then we'll learn about zine culture and how it embraces and critques appropriation. Students will create a self-portrait using a thread from their emails, texts, apps, or feeds. Finally, students will portray each other using the same material as a way to see one another differently. Trusting each other with their content.    
 
@@ -92,26 +92,25 @@ The ml5 JavaScript library is a tool for educators to integrate machine learning
 ## Day 4, Thursday July 19th
 ### I want to believe • by [David Lee](http://cargocollective.com/DavidMLee)
 
-What perpetuates myths? How is new media utilized to explore and/or distort an objective truth? Students will examine how systems of belief such as conspiracy theory and superstition are created and the means but which they are perpetuated and spread through various media. Drawing inspiration from these tenants, we will explore how anecdotal evidence is used to construct an instance of narrative that blends both fact and fiction. Students will be encouraged to be creative with where they find their sources, be it from a book, an online database, personal diary, Youtube, deviantArt, etc.
-Outcomes & Goals
-Programs We’ll Be Using
-- Blender
+What perpetuates myths? How is new media utilized to explore and/or distort an objective truth? Students will examine how systems of belief such as conspiracy theory and superstition are created and the means but which they are perpetuated and spread through various media. Drawing inspiration from these tenants, we will explore how anecdotal evidence is used to construct an instance of narrative that blends both fact and fiction. With 3D modeling software, Blender, students will be encouraged to be creative with where they find their sources, be it from a book, an online database, personal diary, Youtube, deviantArt, etc.
 
-Class intro (15 min)
+#### Class intro (15 min)
 
 Screening of Guy Maddie’s “My Winnipeg” (excerpt) (7 min)
-Reading and Discussion (45 min)
+
+#### Reading and Discussion (45 min)
 — Olin, Margaret. “Gaze”
 - What is a methodology?
 - What happens to information as it becomes archived?
 - What are the gazes of the archives that we access?
 
 --Breakell, Sue. “Perspectives; Negotiating the Archive” (excerpt)
-Group Activity (15 min)
-Research (45 min)
+#### Group Activity (15 min)
+#### Research (45 min)
 - Students will pick their sources and start creating their archives
 - Consider what happens to information as it is manipulated in the digital space
-Blender Intro (1 hour)
+
+#### Blender Intro (1 hour)
 - Navigating Blender
 - Basic Transformations
 - Mesh Editing
@@ -119,7 +118,7 @@ Blender Intro (1 hour)
 - Texture and Surface Editing
 - Importing to Unity
 
-Discuss Work and Group Reflection (30 min)
+#### Discuss Work and Group Reflection (30 min)
 
 Students will 
 -develop their own methodology, based on evidence and logic, in order to disseminate research and either construct or debunk a “truth”.
@@ -142,13 +141,14 @@ This workshop will teach the basics of SuperCollider, and through that the basic
 
 ## Day 7, Tuesday July 24th
 ### [Sonic Pi Day 1](https://gist.github.com/melodyloveless/c6f74c62344288b4499f363240d2d5b7) • by [Melody Loveless](http://melody-loveless.squarespace.com/)
-Part 1
-10-15 min ~ Introduction to Workshop
+
+### Part 1
+#### Introduction to Workshop (10-15 min)
 What is Music?
 What is Live Coding?
 Group Discussion: Trust, Transparency, and Live Coding
 Establishing Goals/Expectations
-15-20 min ~ Introduction to Sonic Pi
+#### Introduction to Sonic Pi (15-20 min)
 Discuss the following:
 Commands - play, sleep, sample, live_loop, __.times
 Parameters - amp, pan, rate, attack, sustain, decay
@@ -156,19 +156,17 @@ Intro to Traditional/Dance Music
 Emphasis - Time, Repetition
 Intro to Ambient Music
 Emphasis - Randomness
-35-50 min ~ Individual Work
+#### Individual Work (35-50 min)
 Pick from a prompt
-10-15 min ~ Share to Neighbor/Constructive Criticism
+#### Share to Neighbor/Constructive Criticism (10-15 min)
 
-LUNCH TIME
-
-Part 2
-45-60 min ~ Guests from Live Code NYC 
+### Part 2
+#### Guests from Live Code NYC 45-60 min
 Guest Artists: Scorpion Mouse (May Cheung and Jason Levine)
-10-15 min ~ Reflect on Performance
-5-10 min ~ Mini-Review and Open Q&A for techniques
-20-35 min ~ Focused Work
-5-10 min before the end, optional share out
+#### Reflect on Performance (10-15 min)
+#### Mini-Review and Open Q&A for techniques (5-10 min)
+#### Focused Work (20-35 min)
+#### before the end, optional share out (5-10 min)
 
 ## Day 8, Wednesday July 25th
 ### [Sonic Pi Day 2](https://gist.github.com/melodyloveless/c6f74c62344288b4499f363240d2d5b7) • by [Melody Loveless](http://melody-loveless.squarespace.com/)
@@ -193,8 +191,10 @@ Part 2
 In this workshop we will be creating a formal treatment for a current artist’s track using Keynote to gain a better understanding of what goes into the initial creative behind today’s top music videos. 
 
 ### Programming of Mini-Digital Day Camp by Taehee Whang and Digital Day Camp Students
+Utilizing the lessons and skills learned from Digital Day Camp workshops, students design and plan their own mini DDC where they facilitate their own 20min workshop. Students picked "Community" for the theme for their 2018 mini-DDC. 
 
 ## Day 10, Friday July 27th
 ### Mini-Digital Day Camp "Community" • by Digital Day Camp Students
+
 
 ### Party
