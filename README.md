@@ -48,10 +48,10 @@ Computer, with Sublime and a web browser installed
 Accountability, public good, power, super power, reinforcement, standards
 
 #### Essential Questions
-What public institutions create or design trust inside of society?
-What do you think can be done better to encourage more trust?
-What happens when these institutions are not reinforcing trust?
-What kinds of actions promote more trust?
+- What public institutions create or design trust inside of society?
+- What do you think can be done better to encourage more trust?
+- What happens when these institutions are not reinforcing trust?
+- What kinds of actions promote more trust?
 
 #### Introduction
 In this workshop, we will design a website for a superhero task force with the mission to create more trust in our social, political, and economic institutions.
@@ -66,10 +66,10 @@ As students design their superhero task force, they will be asked to consider: W
 #### HTML and CSS introduction and making of website (60 minutes)
 
 #### Student Reflections, Takeaways and Next Steps/Multiple Project Exit Points:
-First Steps - finishing their website
-Next Steps - making a comic for their super hero
-Big Steps - promoting and publishing their comic online
-Presentation: because students are making a website, they can be hosting online and shown to the public
+- First Steps - finishing their website
+- Next Steps - making a comic for their super hero
+- Big Steps - promoting and publishing their comic online
+- Presentation: because students are making a website, they can be hosting online and shown to the public
 #### Reflection:
 What does making your superhero and telling their story do for anyone who sees your website?
 What are some issues you care about that you can make websites about?
