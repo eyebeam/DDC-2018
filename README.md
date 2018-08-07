@@ -17,6 +17,7 @@ We will challenge youth to apply creative thinking strategies across a range of 
 2) divide into encoders & decoders - no talking, new image
 3) look at image, modify code
 4) another round of an image
+
 Gather back as group and share thoughts
 Share images and renderings
 How successful were your languages at approximating the original image?
