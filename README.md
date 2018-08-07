@@ -142,7 +142,7 @@ Students will
 
 
 ## Day 5, Friday July 20th
-### Digital Frabrication at Eyebeam • by [Adrian Rivera](https://adrianerivera.com/) 
+### Digital Fabrication at Eyebeam • by [Adrian Rivera](https://adrianerivera.com/) 
 
 On this all day field trip to Eyebeam Headquarters, students will learn about digital modelling and fabrication processes. Students will be exposed to the possibilities of these technologies from fashion to industrial functions. Students will have the opportunity to use fabrication equipment to design, create, and assemble their own fidget spinners.
 
