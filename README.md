@@ -25,7 +25,7 @@ What did you learn while creating your language?
 What was frustrating or enjoyable about the process?
 
 ### GIF Pecha Kucha
-Students showed 5min presentation utilizing GIFs to introduce themselves.
+Students show 5min presentation utilizing GIFs to introduce themselves.
 
 ## Day 2, Tuesday July 17th
 ### [Appropriate Tech: who can speak for whom and how](https://github.com/christopherclary/appropriate-tech) • by [Christopher Clary](https://christopherclary.com/work)
