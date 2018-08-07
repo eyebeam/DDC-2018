@@ -30,7 +30,7 @@ Students show 5min presentation utilizing GIFs to introduce themselves.
 ## Day 2, Tuesday July 17th
 ### [Appropriate Tech: who can speak for whom and how](https://github.com/christopherclary/appropriate-tech) • by [Christopher Clary](https://christopherclary.com/work)
 
-In this workshop students will use their online personas to create art about themselves and their classmates. First we'll discuss appropriation versus privacy and artistic freedom versus social justice — looking at a recent art world controversy. Then we'll learn about zine culture and how it embraces and critques appropriation. Students will create a self-portrait using a thread from their emails, texts, apps, or feeds. Finally, students will portray each other using the same material as a way to see one another differently. Trusting each other with their content.    
+In this workshop students will use their online personas to create art about themselves and their classmates. First we'll discuss appropriation versus privacy and artistic freedom versus social justice — looking at a recent art world controversy. Then we'll learn about zine culture and how it embraces and critiques appropriation. Students will create a self-portrait using a thread from their emails, texts, apps, or feeds. Finally, students will portray each other using the same material as a way to see one another differently. Trusting each other with their content.    
 
 ### Superhero Task Force and Coding • by [Alice Sparkly Kat](http://www.alicesparklykat.com/)
 
