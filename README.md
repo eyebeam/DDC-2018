@@ -11,7 +11,7 @@ We will challenge youth to apply creative thinking strategies across a range of 
 
 ### Welcome • by Taehee Whang
 
-- Overview, code of conduct, Introduction
+- Overview, code of conduct, introduction
 - Walk through "Human Fax Machine"
 1)  sample images, create ‘code’/instruction
 2) divide into encoders & decoders - no talking, new image
