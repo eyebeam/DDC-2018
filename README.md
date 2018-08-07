@@ -106,7 +106,7 @@ The ml5 JavaScript library is a tool for educators to integrate machine learning
 ## Day 4, Thursday July 19th
 ### I want to believe • by [David Lee](http://cargocollective.com/DavidMLee)
 
-What perpetuates myths? How is new media utilized to explore and/or distort an objective truth? Students will examine how systems of belief such as conspiracy theory and superstition are created and the means but which they are perpetuated and spread through various media. Drawing inspiration from these tenants, we will explore how anecdotal evidence is used to construct an instance of narrative that blends both fact and fiction. With 3D modeling software, Blender, students will be encouraged to be creative with where they find their sources, be it from a book, an online database, personal diary, Youtube, deviantArt, etc.
+What perpetuates myths? How is new media utilized to explore and/or distort an objective truth? Students will examine how systems of belief such as conspiracy theory and superstition are created and the means by which they are perpetuated and spread through various media. Drawing inspiration from these tenants, we will explore how anecdotal evidence is used to construct an instance of narrative that blends both fact and fiction. With 3D modeling software, Blender, students will be encouraged to be creative with where they find their sources, be it from a book, an online database, personal diary, Youtube, deviantArt, etc.
 
 #### Class intro (15 min)
 
